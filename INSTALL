@@ -1,0 +1,9 @@
+Building CoinyeCoin
+
+See doc/readme-qt.rst for instructions on building CoinyeCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CoinyeCoin.
+
+See doc/build-*.txt for instructions on building coinyecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CoinyeCoin.
